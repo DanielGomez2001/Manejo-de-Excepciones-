@@ -1,0 +1,10 @@
+C:\Users\Daniel\Desktop\Git Hub\Curso C# Nivel 2\Unidad 6\Manejo de Excepciones\Manejo de Excepciones\Manejo de Excepciones\bin\Debug\Manejo de Excepciones.exe.config
+C:\Users\Daniel\Desktop\Git Hub\Curso C# Nivel 2\Unidad 6\Manejo de Excepciones\Manejo de Excepciones\Manejo de Excepciones\bin\Debug\Manejo de Excepciones.exe
+C:\Users\Daniel\Desktop\Git Hub\Curso C# Nivel 2\Unidad 6\Manejo de Excepciones\Manejo de Excepciones\Manejo de Excepciones\bin\Debug\Manejo de Excepciones.pdb
+C:\Users\Daniel\Desktop\Git Hub\Curso C# Nivel 2\Unidad 6\Manejo de Excepciones\Manejo de Excepciones\Manejo de Excepciones\obj\Debug\Manejo de Excepciones.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Git Hub\Curso C# Nivel 2\Unidad 6\Manejo de Excepciones\Manejo de Excepciones\Manejo de Excepciones\obj\Debug\Manejo_de_Excepciones.Form1.resources
+C:\Users\Daniel\Desktop\Git Hub\Curso C# Nivel 2\Unidad 6\Manejo de Excepciones\Manejo de Excepciones\Manejo de Excepciones\obj\Debug\Manejo_de_Excepciones.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Git Hub\Curso C# Nivel 2\Unidad 6\Manejo de Excepciones\Manejo de Excepciones\Manejo de Excepciones\obj\Debug\Manejo de Excepciones.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\Git Hub\Curso C# Nivel 2\Unidad 6\Manejo de Excepciones\Manejo de Excepciones\Manejo de Excepciones\obj\Debug\Manejo de Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Git Hub\Curso C# Nivel 2\Unidad 6\Manejo de Excepciones\Manejo de Excepciones\Manejo de Excepciones\obj\Debug\Manejo de Excepciones.exe
+C:\Users\Daniel\Desktop\Git Hub\Curso C# Nivel 2\Unidad 6\Manejo de Excepciones\Manejo de Excepciones\Manejo de Excepciones\obj\Debug\Manejo de Excepciones.pdb
